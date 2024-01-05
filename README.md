@@ -1,6 +1,7 @@
 # Model of Toronto Airbnb Listing Prices: Impact of Instant Bookability
 
 **Author:** Yutong Lu
+
 **Date:** December 19, 2021
 
 ## Abstract
