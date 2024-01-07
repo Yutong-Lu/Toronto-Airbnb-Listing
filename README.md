@@ -56,3 +56,5 @@
 - Instant bookability does not causally relate to listing prices.
 - Other factors like room type, number of beds, and reviews play a significant role in pricing.
 - Suggests focusing on these aspects for better understanding of Airbnb pricing in Toronto.
+
+A Tableau data visualization can be found [here](https://public.tableau.com/app/profile/yutong.lu3501/viz/TorontoAirbnbListing/Dashboard1?publish=yes).
